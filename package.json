@@ -1,0 +1,13 @@
+{
+  "name": "cure",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Трекер приёма лекарств (PWA, localStorage)",
+  "scripts": {
+    "serve": "node serve.mjs",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}
